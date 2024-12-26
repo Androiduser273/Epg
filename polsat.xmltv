@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+  <channel id="Polsat">
+    <display-name>Polsat</display-name>
+    <url>http://programtv.interia.pl/kanaly/wszystkie/polsat,49,10?sDate=2008-10-06&amp;sTimeF=22&amp;sTimeT=4&amp;sTimeT=4&amp;cn=&amp;p=1</url>
+  </channel>
+  
+  <programme start="20241226080000 +0100" stop="20241226090000 +0100" channel="Polsat">
+    <title>Przykładowy program</title>
+    <desc>Opis przykładowego programu dla Polsatu.</desc>
+  </programme>
+</tv>
